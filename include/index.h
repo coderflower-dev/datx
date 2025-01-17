@@ -1,4 +1,3 @@
-// i lwk dont know what this sorry
 #pragma once
 #include <iostream>
 #include <vector>
