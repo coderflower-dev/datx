@@ -20,4 +20,3 @@ Usernames: `johndoe`, `micheall`<br>
 Emails: `johndoe@email.com`, `mscott@email2.net`<br>
 Passwords: `pazz123`, `test123`
 
-> If something does not make sense please contact me at coderflowerdev@gmail.com
