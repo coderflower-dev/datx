@@ -8,7 +8,7 @@
 // Reads a file into a string
 std::string readFileStr(std::string filePath, std::string lineDiv = "\n") {
     std::ifstream file(filePath);
-    if(!file) std::cout << "File not found!\n";
+    if(!file) std::cout << "DATX: Failure: File not found!\n";
     std::string text;
     std::string line;
     while(getline(file,line)) {
